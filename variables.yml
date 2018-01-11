@@ -1,0 +1,8 @@
+SERVER_NAME: "local.atmo.cloud"
+SITE_NAME: VagrantSphere
+AUTH_ENABLE_MOCK: True
+shallow_clone: false
+CELERYD_PRODUCTION_WORKER_SETUP: false
+REINSTALL_VENV: false
+UPDATE_DISTRO: false
+UWSGI_AUTORELOAD: true
